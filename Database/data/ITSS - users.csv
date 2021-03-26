@@ -1,0 +1,7 @@
+UID [int],name [varchar(30) ],phone [varchar(15)],email [varchar(20)],gender [ varchar (10) ]
+1,Lai Tien Duc,0991233245,duclt@gmail.com,male
+2,Pham Vu Minh ,0913543625,minhpv@gmail.com,male
+3,Tran Quy Duong,0689930404,duongtq@gmail.com,male
+4,Dang Viet Anh,0872356322,anhdv@gmail.com,male
+5,Nguyen Xuan Mai,0246293844,mainx@gmail.com,female
+6,Bui Thu Van,0368990421,vanbt@gmail.com,female

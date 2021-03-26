@@ -1,0 +1,261 @@
+[33mcommit ca4073bf2da1534886c29548a66d9b3996849680[m[33m ([m[1;36mHEAD -> [m[1;32mvuminh[m[33m)[m
+Author: =Minh Pham <vuminhph@gmail.com>
+Date:   Tue Dec 15 09:27:24 2020 +0700
+
+    add admin bike edit gui
+
+[33mcommit 8c3e21a2defa52bc9152281f88d45b9f06013652[m
+Merge: 63dd078 5707c61
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Dec 14 07:52:37 2020 +0000
+
+    Merge remote-tracking branch 'origin/duc-code' into dev
+
+[33mcommit 63dd078116541af695930f4b817b911bc047843b[m
+Merge: 263cad4 c3f6f8e
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Dec 14 07:52:21 2020 +0000
+
+    Merge remote-tracking branch 'origin/vuminh' into dev
+
+[33mcommit 263cad4605fe3deed26d39973a91470387ee67de[m
+Merge: b93d818 67c45a5
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Dec 14 07:51:43 2020 +0000
+
+    add
+
+[33mcommit 5707c6158802b99661d3ea23c748200026a62864[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Dec 14 07:43:02 2020 +0000
+
+    add
+
+[33mcommit c3f6f8eaa03bd3a3baa54ca3663026f3bf557704[m[33m ([m[1;31morigin/vuminh[m[33m)[m
+Merge: c15cc87 c3494cc
+Author: =Minh Pham <vuminhph@gmail.com>
+Date:   Mon Dec 14 07:40:49 2020 +0700
+
+    Merge branch 'vuminh' of https://bitbucket.org/itss-swd/ict1.k62s.20201-06 into vuminh
+
+[33mcommit c15cc87738bea54de7d1e7ac6d4681bc1b7a2b0e[m
+Author: =Minh Pham <vuminhph@gmail.com>
+Date:   Mon Dec 14 07:38:22 2020 +0700
+
+    them attribute stationID trong class bike
+
+[33mcommit 925aa6b5b3979c3472d738f5acfa1e2a14754f67[m[33m ([m[1;31morigin/duc-code[m[33m, [m[1;32mduc-code[m[33m)[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Dec 14 00:13:33 2020 +0000
+
+    add project
+
+[33mcommit 67c45a560ec932ab16e3e2a0e0dbfe67604835a5[m[33m ([m[1;31morigin/payment[m[33m)[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Sun Dec 13 13:16:29 2020 +0700
+
+    Added method to save records to database
+
+[33mcommit b93d8184c22686e6af972a40f5ca7eb5fefd7751[m
+Merge: c60f594 ad4dff4
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Dec 12 14:24:32 2020 +0000
+
+    Merge branch 'duc-code' into dev
+
+[33mcommit ad4dff4ff7674a9d8220ad313a836a6f73b6d990[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Dec 12 14:24:04 2020 +0000
+
+    add
+
+[33mcommit 279dc3b040d9614d01311dd132d856614439189a[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Sat Dec 12 15:56:46 2020 +0700
+
+    Fixed a bug that makes up wrong balance
+
+[33mcommit 10cf050a8dfacb2eeb34d91e2f8ebfc8b7e84ecb[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Sat Dec 12 15:43:49 2020 +0700
+
+    Completed payment method
+
+[33mcommit 1d92be97a27ac75b47f269177ec380bdf47e33f8[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Wed Dec 9 23:02:20 2020 +0700
+
+    Added payment GUI
+
+[33mcommit c60f59429827ddc20ed52ece0af745ebd29eceec[m
+Merge: c3494cc d15eed9
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Wed Dec 9 21:18:13 2020 +0700
+
+    ad
+
+[33mcommit d15eed9669c65dd59cb6243cd00cd264310aef7d[m
+Merge: e38731a f88f6f4
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Wed Dec 9 20:59:03 2020 +0700
+
+    Merge remote-tracking branch 'origin/payment' into dev
+
+[33mcommit e38731a7de6df45026c3c2ceee1eb85363b2da4d[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Wed Dec 9 20:52:36 2020 +0700
+
+    GUI
+
+[33mcommit c3494cc7584113340a8c64ecaab05b39bbcffb00[m
+Author: =Minh Pham <vuminhph@gmail.com>
+Date:   Wed Dec 9 17:47:20 2020 +0700
+
+    add methods edit bikes cho admin
+
+[33mcommit f88f6f454f657145dbbfadaa70f4b61d3f51318d[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Wed Dec 9 13:23:14 2020 +0700
+
+    Added payment method
+
+[33mcommit 5d2423dd41d0ff7a4816a8e4bc4ad520becf72a0[m
+Merge: c6802f1 fcb56c0
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Dec 6 14:58:23 2020 +0700
+
+    add
+
+[33mcommit c6802f11dd043d0c6903dc2fe8d9a385570a29bf[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Dec 6 14:51:08 2020 +0700
+
+    add
+
+[33mcommit fcb56c0a9d586786049d07b9b4c0da94ce09dd82[m
+Merge: 8942ab1 7b961bc
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Sun Dec 6 13:28:13 2020 +0700
+
+    Merged database-handling code
+
+[33mcommit 8942ab1bf00a72cae01f06128e5c87069774ce37[m
+Author: Tran Duong <duong.tq.dev@gmail.com>
+Date:   Sun Dec 6 13:22:53 2020 +0700
+
+    Added unrefined payment package
+
+[33mcommit 7b961bc231a0b6ffeb92f32e69f2fdf7ae4cc4a5[m
+Author: DazkTalgi <duclt3005@gmail.com>
+Date:   Sat Dec 5 15:49:32 2020 +0000
+
+    SQLDataBase.java edited online with Bitbucket
+
+[33mcommit 8e88e9eb8c2d9da9a9d7a61806af4e06abbf5332[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Dec 5 20:26:52 2020 +0700
+
+    code demo
+
+[33mcommit f7cd5150678739f89204a0791f3655135416f7da[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Nov 29 22:27:53 2020 +0700
+
+    bai 3
+
+[33mcommit a311f42b01ced3ac1d7db3ba83010129fd96d868[m
+Author: goodguy99 <boyhoangtu11@gmail.com>
+Date:   Sat Nov 21 10:01:19 2020 +0700
+
+    HW2_Sequence
+
+[33mcommit ced5777e7a33103648930232ec79608a9334b737[m
+Author: goodguy99 <boyhoangtu11@gmail.com>
+Date:   Mon Nov 16 10:04:14 2020 +0700
+
+    Viet Anh them HW1
+
+[33mcommit 59b66ccf2ea882e7674a94564688a2aaaac71ee0[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Nov 14 15:27:02 2020 +0700
+
+    add img
+
+[33mcommit a5c120ae99bbc1c66811b4e211e1f33300b8c1b5[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Nov 14 15:24:09 2020 +0700
+
+    add screen specification
+
+[33mcommit 4e90009c39e23fd0a6427eee3b054128c8fe8533[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Nov 14 10:01:55 2020 +0700
+
+    add class diagram
+
+[33mcommit 625664f92c68b71830dd736f05f57e35bd64d9cf[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sat Nov 14 09:28:26 2020 +0700
+
+    add
+
+[33mcommit bda0cdad2418d7d46cc47e7d7ceeffbadc28a0e4[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Nov 9 08:47:58 2020 +0700
+
+    add GUI
+
+[33mcommit ca3251aa299df899c23321b5f3fe0ef1830a294e[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Nov 8 08:38:00 2020 +0700
+
+    submit
+
+[33mcommit 155c624aed6ea8ed5f4f5521b6431a39438669eb[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Nov 2 09:31:09 2020 +0700
+
+    submit hw2
+
+[33mcommit c659efaa588b77b7ca0cc802afaea6e278bac6a9[m
+Merge: 567213e 90eafa5
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Nov 2 09:25:08 2020 +0700
+
+    Merge branch 'master' of https://bitbucket.org/itss-swd/ict1.k62s.2020-06 into master
+
+[33mcommit 567213ea30bcb38ca8ad7c1be0bbd303f3b38961[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Mon Nov 2 09:24:50 2020 +0700
+
+    a
+
+[33mcommit 90eafa54ce456dbc05703b3c24e2d9762ee7f9a6[m
+Author: Tran Quy Duong <duong.tq.dev@gmail.com>
+Date:   Mon Nov 2 07:49:34 2020 +0700
+
+    Duong submit homework 1&2
+
+[33mcommit cc925f21951d88f7d131f200d2abc4bef567b62d[m
+Author: =Minh Pham <vuminhph@gmail.com>
+Date:   Mon Nov 2 07:21:32 2020 +0700
+
+    Minh submit hw1+2
+
+[33mcommit 063dae1d3f69776a157b9347ec6aab4d22257a26[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Nov 1 22:35:06 2020 +0700
+
+    Duc submit hw1+2
+
+[33mcommit f4b9088f0cddc3688e5979457196e6b3ac32aa1d[m
+Author: duclt3005 <duclt3005@gmail.com>
+Date:   Sun Nov 1 22:31:25 2020 +0700
+
+    Duc submit hw1+2
+
+[33mcommit b5aa7ad785f11bac616c361b7d55e8b3fbfd638b[m
+Author: DazkTalgi <duclt3005@gmail.com>
+Date:   Mon Oct 26 01:45:12 2020 +0000
+
+    Initial commit

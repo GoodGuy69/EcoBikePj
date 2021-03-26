@@ -1,0 +1,6 @@
+SID [int],name [varchar(20)],address [varchar(100)],total_dock [int]
+1,Station-1,"1 Dai Co Viet, Hai Ba Trung, Ha Noi",15
+2,Station-2,"210 Xa Dan, Dong Da, Ha Noi",20
+3,Station-3,"123 Duong Lang, Dong Da, Ha Noi",20
+4,Station-4,"56 Xuan Thuy, Cau Giay, Ha Noi",16
+5,Station-5,"40 Nguyen Trai, Thanh Xuan, Ha Noi",18

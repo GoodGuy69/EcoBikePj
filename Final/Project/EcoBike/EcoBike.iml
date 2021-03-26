@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/hamcrest-core-1.3.jar" />
+    <libelement value="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/jcalendar-1.4.jar" />
+    <libelement value="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/junit-4.13.1.jar" />
+    <libelement value="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/junit-jupiter-api-5.7.0.jar" />
+    <libelement value="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/mysql-connector-java-5.1.49.jar" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/test" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/hamcrest-core-1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcalendar-1.4.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/jcalendar-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.13.1.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/junit-4.13.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-jupiter-api-5.7.0.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/junit-jupiter-api-5.7.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.49.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Admin/Desktop/Software_Development/ITSS/ict1.k62s.20201-06/Project/plugin/mysql-connector-java-5.1.49.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../plugin/mysql-connector-java-5.1.49.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../plugin/junit-jupiter-api-5.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../plugin/junit-4.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../plugin/jcalendar-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../plugin/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

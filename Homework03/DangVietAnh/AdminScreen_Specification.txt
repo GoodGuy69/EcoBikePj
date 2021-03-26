@@ -1,0 +1,9 @@
+1.Home screen: The screen contain image pane with two buttons "Admin" and "User"
+
+2.DockStation: The screen contain one text fields for searching by StationName, one StationPanel and four buttons "Log out", "Delete","Edit","Add"
+
+3.Edit Screen: After we choose Station row and click "Edit" button, the screen will be opened. It has four text fields for "ID", "Name", "Address", "Total_dock" and two buttons "Back","Update"
+
+4.Add Screen: After we click "Add" button, the screen will be opened. It has four text fields for "ID", "Name", "Address", "Total_dock" and two buttons "Back","Add"
+
+
